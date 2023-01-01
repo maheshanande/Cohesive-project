@@ -1,4 +1,4 @@
-# Money-Splitter
+
 Money Tracker app built using HTML, CSS, Python and django.
 
 Money Tracker is an easy to use tracker app where you can keep track of your budgets and calculate how much money you have to give or take from your friends. This app can be very useful during trips and other occassions where calculation of budget and who pays for what is necessary.
